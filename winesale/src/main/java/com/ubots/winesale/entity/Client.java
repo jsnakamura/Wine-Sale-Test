@@ -18,11 +18,11 @@ public class Client {
 
 	@Id
 	@Column(name = "id")
-	int id;
-	
+	private long id;
+
 	@Column(name = "name")
-	String nome;
-	
+	private String nome;
+
 	@Column(name = "cpf")
-	String cpf;
+	private String cpf;
 }

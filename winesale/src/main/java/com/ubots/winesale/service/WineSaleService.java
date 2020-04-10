@@ -10,8 +10,8 @@ public interface WineSaleService {
 	public List<Client> listAllByTotalValue();
 
 	public Client getHighestSale();
-	
+
 	public List<Client> getLoyalestClients();
-	
+
 	public Wine getWineRecomendation(int id);
 }
