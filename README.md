@@ -22,7 +22,7 @@ REST API de um sistema de vendas de vinhos
 
 ### - Java Project
 
-* Executar MobilityAppApplication.java como Java application
+* Executar WineSaleAppApplication.java como Java application
 
 ## Melhorias
 
